@@ -13,4 +13,5 @@ class Laptop
 end
 
 laptop1 = Laptop.new("Apple", "Mackbook air")
-puts laptop1
+puts laptop1.brand
+puts laptop1.model
