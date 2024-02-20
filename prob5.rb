@@ -9,4 +9,5 @@ module Payments
 
   invoice1 = Invoice.new
   receipt1 = Receipt.new
+
 end
